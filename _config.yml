@@ -138,7 +138,7 @@ plugins:
 scholar:
 
   last_name: Mavali
-  first_name: Sina
+  first_name: [Sina]
 
   style: apa
   locale: en
